@@ -17,9 +17,9 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 |  <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
 
 ### OS:
-| Linux | Ubuntu | AIX |
-|-------|--------|-----|
-| <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/aix/aix-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+| Linux | Ubuntu | Ubuntu | AIX |
+|-------|--------|--------|-----|
+| <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/fedora/fedora-plain.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/aix/aix-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
 ---
 
