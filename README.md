@@ -9,6 +9,8 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 - Slots Machine Game in collaboration with [yourdanov](https://github.com/yourdanov)
 - Various scripts
 
+## Languages and Tools 
+
 ### Languages:
 | Python3 | JS |
 |---------|----|
@@ -19,9 +21,13 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 |-------|--------|-----|
 | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/aix/aix-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
+---
+
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=lyudmilov-georgedi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
+---
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lyudmilov-georgedi&show_icons=true&theme=vision-friendly-dark">
