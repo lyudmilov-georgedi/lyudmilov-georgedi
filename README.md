@@ -1,3 +1,6 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
+
+
 ### About Me:  
 
 Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | Building and sharing projects 🛠️ | Let's code together! 🌐
