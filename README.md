@@ -1,4 +1,4 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=lyudmilov-georgedi&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)
 
 
 ### About Me:  
