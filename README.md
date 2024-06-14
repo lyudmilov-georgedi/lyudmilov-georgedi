@@ -45,3 +45,7 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=lyudmilov-georgedi&style=for-the-badge&color=orange" alt=""/>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
