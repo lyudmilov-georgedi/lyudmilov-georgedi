@@ -9,7 +9,6 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 
 ### Working on: 🚀
 - Tweaking this README for optimal engagement 
-- Slots Machine Game in collaboration with [yourdanov](https://github.com/yourdanov)
 - Various games and scripts
 
 ## Languages and Tools 
