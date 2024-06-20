@@ -8,7 +8,8 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 ### Algorithms [LeetCode](https://leetcode.com/u/lyudmilov-georgedi/)
 
 ### Working on: 🚀
-- Tweaking this README for optimal engagement 
+- Tweaking this README for optimal engagement
+- Tetris game in python using pygame
 - Various games and scripts
 
 ## Languages and Tools 
