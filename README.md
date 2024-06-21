@@ -9,8 +9,7 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 
 ### Working on: 🚀
 - Tweaking this README for optimal engagement
-- Tetris game in python using pygame
-- Various games and scripts
+- Various games and scripts in Python
 
 ## Languages and Tools 
 
