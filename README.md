@@ -10,6 +10,7 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 ### Working on: 🚀
 - Tweaking this README for optimal engagement
 - Various games and scripts in Python
+- Real-time Chat Application in Java
 
 ## Languages and Tools 
 
