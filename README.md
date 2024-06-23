@@ -19,10 +19,10 @@ Passionate coder 🚀 | Open-source enthusiast 💻 | Continuous learner 📚 | 
 |---------|----|------|------|------|
 |  <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/> | <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> |
 
-### Environments:
-| Git |
-|-----|
-| <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> |
+### Environments, Other:
+| Git | Apache | Maven |
+|-----|--------|-------|
+| <img src="https://github.com/lyudmilov-georgedi/lyudmilov-georgedi/blob/main/devicons/git/git-original.svg" title="Git"  alt="Git" width="55" height="55"/> |  |  |
 
 ### OS:
 | Fedora | AIX |
